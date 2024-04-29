@@ -1,0 +1,22 @@
+<Cookies>
+    <Cookie id="Macadamia Nut">
+        <Allergy>Nut</Allergy>
+        <Price>1.50</Price>
+        <Size>Medium</Size>
+    </Cookie>
+    <Cookie id="Caramel">
+        <Allergy>Milk</Allergy>
+        <Price>1.75</Price>
+        <Size>Small</Size>
+    </Cookie>
+    <Cookie id="Sugar">
+        <Allergy>Milk</Allergy>
+        <Price>1.50</Price>
+        <Size>Medium</Size>
+    </Cookie>
+    <Cookie id="Chocolate Chip">
+        <Allergy>Milk</Allergy>
+        <Price>2.00</Price>
+        <Size>Large</Size>
+    </Cookie>
+</Cookies>
